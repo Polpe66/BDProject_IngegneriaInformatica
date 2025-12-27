@@ -43,10 +43,14 @@ DBMS: MySQL / MariaDB.
 
 Logica Applicativa: Implementazione di trigger per il calcolo dinamico dei costi e aggiornamento automatico dello stato di salute degli edifici.
 
-Versione Inglese
+EN Version
+
 Smart Buildings Database Project 🏗️
+
 Final project for the Database Systems course (Computer Engineering, University of Pisa).
+
 2021/2022
+
 This system manages the complete lifecycle of modern buildings: from the construction phase (logistics and workforce) to structural health monitoring via IoT sensors for predictive maintenance.
 
 Grade: 29/30
