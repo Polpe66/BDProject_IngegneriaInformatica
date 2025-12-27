@@ -1,7 +1,7 @@
 Versione ITA
-Smart Buildings Database Project 🏗️
-Progetto finale per il corso di Basi di Dati (Ingegneria Informatica, Università di Pisa).
-2021/2022. 
+
+**Progetto finale per il corso di Basi di Dati 2021/2022 (Ingegneria Informatica, Università di Pisa).**
+
 
 Il sistema gestisce l'intero ciclo di vita di edifici moderni: dalla fase di costruzione (logistica e personale) al monitoraggio strutturale tramite sensori IoT per la manutenzione predittiva.
 
@@ -43,14 +43,11 @@ DBMS: MySQL / MariaDB.
 
 Logica Applicativa: Implementazione di trigger per il calcolo dinamico dei costi e aggiornamento automatico dello stato di salute degli edifici.
 
+---
+
 EN Version
 
-Smart Buildings Database Project 🏗️
-
-Final project for the Database Systems course (Computer Engineering, University of Pisa).
-
-2021/2022
-
+**Final project for the Database Systems course 2021/2022 (Computer Engineering, University of Pisa).**
 This system manages the complete lifecycle of modern buildings: from the construction phase (logistics and workforce) to structural health monitoring via IoT sensors for predictive maintenance.
 
 Grade: 29/30
