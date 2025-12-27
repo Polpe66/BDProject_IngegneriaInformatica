@@ -2,7 +2,6 @@ Versione ITA
 
 **Progetto finale per il corso di Basi di Dati 2021/2022 (Ingegneria Informatica, Università di Pisa).**
 
-
 Il sistema gestisce l'intero ciclo di vita di edifici moderni: dalla fase di costruzione (logistica e personale) al monitoraggio strutturale tramite sensori IoT per la manutenzione predittiva.
 
 Valutazione: 29/30
