@@ -2,6 +2,8 @@ Versione ITA
 
 **Progetto finale per il corso di Basi di Dati 2021/2022 (Ingegneria Informatica, Università di Pisa).**
 
+👥 **Sviluppato in collaborazione con:** Valentina Cannarella e Francesco Della Maggiora.
+
 Il sistema gestisce l'intero ciclo di vita di edifici moderni: dalla fase di costruzione (logistica e personale) al monitoraggio strutturale tramite sensori IoT per la manutenzione predittiva.
 
 Valutazione: 29/30
@@ -9,7 +11,7 @@ Valutazione: 29/30
 📋 Caratteristiche Principali
 Il database è progettato per gestire la complessità di una "Smart City", focalizzandosi su:
 
-Gestione Cantieri: Monitoraggio di lotti di materiali (mattoni, piastrelle), fornitori e avanzamento lavori (SAL).
+Gestione materiali: Monitoraggio di lotti di materiali (mattoni, piastrelle), fornitori e avanzamento lavori (SAL).
 
 IoT & Monitoraggio: Ingestione dati da sensori scalari e triassiali con sistema di alert automatico in caso di superamento soglie.
 
@@ -47,6 +49,9 @@ Logica Applicativa: Implementazione di trigger per il calcolo dinamico dei costi
 EN Version
 
 **Final project for the Database Systems course 2021/2022 (Computer Engineering, University of Pisa).**
+
+👥 **Developed in collaboration with:** Valentina Cannarella and Francesco Della Maggiora.
+
 This system manages the complete lifecycle of modern buildings: from the construction phase (logistics and workforce) to structural health monitoring via IoT sensors for predictive maintenance.
 
 Grade: 29/30
