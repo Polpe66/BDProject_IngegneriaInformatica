@@ -2,7 +2,7 @@ Versione ITA
 
 **Progetto finale per il corso di Basi di Dati 2021/2022 (Ingegneria Informatica, Università di Pisa).**
 
-👥 **Sviluppato in collaborazione con:** Valentina Cannarella e Francesco Della Maggiora.
+👥 **Sviluppato in collaborazione con:** Valentina Cannarella e [@FrancescoDellaMaggiora](https://github.com/FrancescoDellaMaggiora).
 
 Il sistema gestisce l'intero ciclo di vita di edifici moderni: dalla fase di costruzione (logistica e personale) al monitoraggio strutturale tramite sensori IoT per la manutenzione predittiva.
 
@@ -50,7 +50,7 @@ EN Version
 
 **Final project for the Database Systems course 2021/2022 (Computer Engineering, University of Pisa).**
 
-👥 **Developed in collaboration with:** Valentina Cannarella and Francesco Della Maggiora.
+👥 **Developed in collaboration with:** Valentina Cannarella and [@FrancescoDellaMaggiora](https://github.com/FrancescoDellaMaggiora).
 
 This system manages the complete lifecycle of modern buildings: from the construction phase (logistics and workforce) to structural health monitoring via IoT sensors for predictive maintenance.
 
