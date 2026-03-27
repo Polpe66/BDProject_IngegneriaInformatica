@@ -11,24 +11,24 @@ Valutazione: 29/30
 📋 Caratteristiche Principali
 Il database è progettato per gestire la complessità di una "Smart City", focalizzandosi su:
 
-Gestione materiali: Monitoraggio di lotti di materiali (mattoni, piastrelle), fornitori e avanzamento lavori (SAL).
+- Gestione materiali: Monitoraggio di lotti di materiali (mattoni, piastrelle), fornitori e avanzamento lavori (SAL).
 
-IoT & Monitoraggio: Ingestione dati da sensori scalari e triassiali con sistema di alert automatico in caso di superamento soglie.
+- IoT & Monitoraggio: Ingestione dati da sensori scalari e triassiali con sistema di alert automatico in caso di superamento soglie.
 
-Analisi del Rischio: Correlazione tra calamità naturali (es. terremoti) e integrità degli edifici tramite storici dei coefficienti di rischio.
+- Analisi del Rischio: Correlazione tra calamità naturali (es. terremoti) e integrità degli edifici tramite storici dei coefficienti di rischio.
 
 🏗️ Architettura del Database
 Il sistema è normalizzato in BCNF e si divide in 5 aree:
 
-Area Generale: Edifici e localizzazione.
+- Area Generale: Edifici e localizzazione.
 
-Area Costruzione: Progetti, materiali e fornitori.
+- Area Costruzione: Progetti, materiali e fornitori.
 
-Area Personale: Dipendenti, ruoli e turni.
+- Area Personale: Dipendenti, ruoli e turni.
 
-Area Monitoraggio: Sensori e misurazioni.
+- Area Monitoraggio: Sensori e misurazioni.
 
-Area Analisi Rischio: Danni e calamità.
+- Area Analisi Rischio: Danni e calamità.
 
 📂 Struttura del Repository
 Creazione e Popolamento database.sql: Schema DDL completo e dataset di test.
@@ -59,24 +59,24 @@ Grade: 29/30
 📋 Key Features
 The database is designed to handle the complexity of a "Smart City," focusing on:
 
-Construction Management: Tracking material lots (bricks, tiles), suppliers, and Work Progress Status (WPS).
+- Construction Management: Tracking material lots (bricks, tiles), suppliers, and Work Progress Status (WPS).
 
-IoT & Monitoring: Data ingestion from scalar and triaxial sensors with an automated alert system for safety threshold breaches.
+- IoT & Monitoring: Data ingestion from scalar and triaxial sensors with an automated alert system for safety threshold breaches.
 
-Risk Analysis: Correlation between natural disasters and building integrity through historical risk coefficient tracking.
+- Risk Analysis: Correlation between natural disasters and building integrity through historical risk coefficient tracking.
 
 🏗️ Database Architecture
 The system is normalized to BCNF and organized into 5 core modules:
 
-General Area: Buildings and geographic localization.
+- General Area: Buildings and geographic localization.
 
-Construction Area: Projects, materials, and vendors.
+- Construction Area: Projects, materials, and vendors.
 
-Personnel Area: Employees, roles, and shift management.
+- Personnel Area: Employees, roles, and shift management.
 
-Monitoring Area: Sensors and real-time measurements.
+- Monitoring Area: Sensors and real-time measurements.
 
-Risk Analysis Area: Damage reports and natural disaster history.
+- Risk Analysis Area: Damage reports and natural disaster history.
 
 📂 Repository Structure
 Creazione e Popolamento database.sql: Full DDL schema and test dataset.
