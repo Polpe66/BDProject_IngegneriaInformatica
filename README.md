@@ -30,7 +30,8 @@ Il sistema è normalizzato in BCNF e si divide in 5 aree:
 
 - Area Analisi Rischio: Danni e calamità.
 
-📂 Struttura del Repository
+📂 Struttura del Repository:
+
 Creazione e Popolamento database.sql: Schema DDL completo e dataset di test.
 Operazioni.sql: Query avanzate (es. calcolo stipendi complessi, analisi resilienza materiali).
 Documentazione.pdf: Relazione tecnica con analisi dei requisiti e progettazione logica.
@@ -75,7 +76,8 @@ The system is normalized to BCNF and organized into 5 core modules:
 
 - Risk Analysis Area: Damage reports and natural disaster history.
 
-📂 Repository Structure
+📂 Repository Structure:
+
 Creazione e Popolamento database.sql: Full DDL schema and test dataset.
 Operazioni.sql: Advanced SQL queries (e.g., complex payroll calculation, material resilience analysis).
 Documentazione.pdf: Technical report including requirement analysis and logical design.
