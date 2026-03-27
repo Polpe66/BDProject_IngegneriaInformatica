@@ -9,6 +9,7 @@ Il sistema gestisce l'intero ciclo di vita di edifici moderni: dalla fase di cos
 Valutazione: 29/30
 
 📋 Caratteristiche Principali
+
 Il database è progettato per gestire la complessità di una "Smart City", focalizzandosi su:
 
 - Gestione materiali: Monitoraggio di lotti di materiali (mattoni, piastrelle), fornitori e avanzamento lavori (SAL).
@@ -18,6 +19,7 @@ Il database è progettato per gestire la complessità di una "Smart City", focal
 - Analisi del Rischio: Correlazione tra calamità naturali (es. terremoti) e integrità degli edifici tramite storici dei coefficienti di rischio.
 
 🏗️ Architettura del Database
+
 Il sistema è normalizzato in BCNF e si divide in 5 aree:
 
 - Area Generale: Edifici e localizzazione.
@@ -38,6 +40,7 @@ Il sistema è normalizzato in BCNF e si divide in 5 aree:
 - Diagrammi E-R: Schemi concettuali prima e dopo la ristrutturazione.
 
 ⚠️ Note Tecniche
+
 DBMS: MySQL / MariaDB.
 
 Logica Applicativa: Implementazione di trigger per il calcolo dinamico dei costi e aggiornamento automatico dello stato di salute degli edifici.
@@ -55,6 +58,7 @@ This system manages the complete lifecycle of modern buildings: from the constru
 Grade: 29/30
 
 📋 Key Features
+
 The database is designed to handle the complexity of a "Smart City," focusing on:
 
 - Construction Management: Tracking material lots (bricks, tiles), suppliers, and Work Progress Status (WPS).
@@ -64,6 +68,7 @@ The database is designed to handle the complexity of a "Smart City," focusing on
 - Risk Analysis: Correlation between natural disasters and building integrity through historical risk coefficient tracking.
 
 🏗️ Database Architecture
+
 The system is normalized to BCNF and organized into 5 core modules:
 
 - General Area: Buildings and geographic localization.
@@ -84,6 +89,7 @@ The system is normalized to BCNF and organized into 5 core modules:
 - E-R Diagrams: Conceptual schemas (pre and post-restructuring).
 
 ⚠️ Technical Highlights
+
 DBMS: MySQL / MariaDB.
 
 Business Logic: Heavy use of triggers for dynamic cost estimation and automated building health status updates based on sensor data.
