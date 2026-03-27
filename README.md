@@ -32,10 +32,10 @@ Il sistema è normalizzato in BCNF e si divide in 5 aree:
 
 📂 Struttura del Repository:
 
-Creazione e Popolamento database.sql: Schema DDL completo e dataset di test.
-Operazioni.sql: Query avanzate (es. calcolo stipendi complessi, analisi resilienza materiali).
-Documentazione.pdf: Relazione tecnica con analisi dei requisiti e progettazione logica.
-Diagrammi E-R: Schemi concettuali prima e dopo la ristrutturazione.
+- Creazione e Popolamento database.sql: Schema DDL completo e dataset di test.
+- Operazioni.sql: Query avanzate (es. calcolo stipendi complessi, analisi resilienza materiali).
+- Documentazione.pdf: Relazione tecnica con analisi dei requisiti e progettazione logica.
+- Diagrammi E-R: Schemi concettuali prima e dopo la ristrutturazione.
 
 ⚠️ Note Tecniche
 DBMS: MySQL / MariaDB.
@@ -78,10 +78,10 @@ The system is normalized to BCNF and organized into 5 core modules:
 
 📂 Repository Structure:
 
-Creazione e Popolamento database.sql: Full DDL schema and test dataset.
-Operazioni.sql: Advanced SQL queries (e.g., complex payroll calculation, material resilience analysis).
-Documentazione.pdf: Technical report including requirement analysis and logical design.
-E-R Diagrams: Conceptual schemas (pre and post-restructuring).
+- Creazione e Popolamento database.sql: Full DDL schema and test dataset.
+- Operazioni.sql: Advanced SQL queries (e.g., complex payroll calculation, material resilience analysis).
+- Documentazione.pdf: Technical report including requirement analysis and logical design.
+- E-R Diagrams: Conceptual schemas (pre and post-restructuring).
 
 ⚠️ Technical Highlights
 DBMS: MySQL / MariaDB.
